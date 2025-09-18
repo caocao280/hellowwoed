@@ -1,0 +1,8 @@
+# Token do BotFather cấp
+BOT_TOKEN=6872937178:AAHjdfG917m55EhzzEXf6CkseDBZzq52zIo
+
+# (tuỳ chọn) ChatID admin để nhận báo cáo riêng
+# ADMIN_CHAT_ID=123456789
+
+# Danh sách username admin (không có @), được phép /rate /napxu /stock /pm
+ADMIN=web2m_momo_bot,YourTeleUser

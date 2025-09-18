@@ -1,0 +1,2 @@
+# Tỷ giá động: 1 VND = RATE xu
+RATE=96

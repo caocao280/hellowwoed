@@ -1,0 +1,7 @@
+# Định dạng tag:
+# [SV]1[/SV][TK]tuantienloi[/TK][MK]zzzz[/MK][NV]tuanig[/NV][MAP]22:73[/MAP][LOCATION]457,216[/LOCATION]
+[SV]1[/SV][TK]tuantienloi[/TK][MK]zzzz[/MK][NV]tuanig[/NV][MAP]22:73[/MAP][LOCATION]457,216[/LOCATION]
+
+# Hoặc CSV nhẹ:
+# sv,username,password,char,map,locX,locY
+# 1,acc2,pass2,tennv2,22:73,457,216

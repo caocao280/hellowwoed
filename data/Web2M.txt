@@ -1,0 +1,4 @@
+ENABLED=1
+PORT=8088
+PATH=web2m
+SECRET=your-shared-secret
